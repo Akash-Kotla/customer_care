@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">customer_care_ui</string>
+
+
+    <string-array name="Packages">
+
+        <item>Pack1</item>
+        <item>Pack2</item>
+        <item>Pack3</item>
+
+    </string-array>
+
+    <string-array name="course">
+        <item>course1</item>
+        <item>course2</item>
+        <item>course3</item>
+    </string-array>
+
+    <string name="activatepackage">Activate Packages</string>
+    <string name="Package"> Packages</string>
+    <string name="selectpackage">Select Package</string>
+    <string name="selectype">Select Type</string>
+    <string name="course">Course</string>
+    <string name="selectcourse">Select Course</string>
+    <string name="courselevel">Course level</string>
+    <string name="type">Type </string>
+    <string name="selectpack">Select Package</string>
+    <string name="selectcourselevel">Select course level</string>
+    <string name="activatedate">Select Package Activation Date </string>
+    <string name="modeofpayment">Select Mode of Payment</string>
+    <string name="razorpay">RAZOR PAY ORDER ID</string>
+    <string name="enterorderid">Enter Order ID</string>
+    <string name="amountpaid">Amount Paid</string>
+    <string name="enteramountpaid">Enter Amount Paid</string>
+    <string name="save">Save</string>
+    <string name="exit">Exit</string>
+
+
+
+
+
+
+
+</resources>
